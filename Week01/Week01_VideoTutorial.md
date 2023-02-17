@@ -1,4 +1,4 @@
-# Data Visualization: Week01 
+# Data Analysis and Visualization: Week01 
 
 **Numpy Online Tutorial:**
 

@@ -1,4 +1,4 @@
-# Data Visualization: Week01: Numpy 
+# Data Analysis and Visualization: Week01: Numpy 
 
 ## Lesson 01: Introducing Numpy
 
