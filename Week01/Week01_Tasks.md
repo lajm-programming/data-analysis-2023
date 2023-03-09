@@ -12,4 +12,4 @@
 
 1) Watch the video tutorial
 2) Go through the examples in Jupyter Notebook **02_Numpy_Mathematics**
-3) The linear algebra examples can be found in **03_Linear_Algebra_with_Numpy
+3) The linear algebra examples can be found in **03_Linear_Algebra_with_Numpy**
