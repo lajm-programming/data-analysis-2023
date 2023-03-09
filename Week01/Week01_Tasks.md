@@ -1,10 +1,12 @@
 # Data Analysis and Visualization: Week01: Numpy 
 
-## Lesson 01: Introducing Numpy
+## Lesson 01: Introduction to Data Visualization with Matplotlib
 
-## Lesson 02: Working with Arrays and Matrices in Numpy
+## Lesson 02: Introducing Numpy
 
-## Lesson 03: Linear Algebra with Numpy
+## Lesson 03: Basic Principles of working with Matplotlib
+
+## Self study: Linear Algebra with Numpy
 
 ## Self study: Mathematical Operations with Arrays and Matrices
 
