@@ -2,4 +2,4 @@
 
 **Pandas Online Tutorial:**
 
-https://www.youtube.com/watch?v=gogkiiQoEiI&list=PLD-piGJ3Dtl1Kh7jHGyEQRcA5hBe45GT5
+https://www.youtube.com/watch?v=4a2S6P6RvUs&list=PL2VXyKi-KpYsjfozVCczTi2GxNJS5dKTD
